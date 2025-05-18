@@ -1,6 +1,15 @@
 # CN-Countries-Flashcards
 This python script creates country flashcards to learn chinese.
 
+**Example**
+
+<p align="center">
+  <img width="270" alt="Front" src="https://github.com/user-attachments/assets/00c51bd9-f440-414b-af46-39be823138ed" style="margin-right: 10px;" />
+  <img width="268" alt="Back" src="https://github.com/user-attachments/assets/4bb7d42a-9986-470d-843b-8de12599ea12" />
+</p>
+
+
+
 ## Acknowledgement
 
 - Python and Tex coded by me [Juan José Sánchez](https://github.com/jj-sm)
